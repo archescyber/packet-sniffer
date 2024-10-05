@@ -48,4 +48,5 @@ To stop capturing, press Ctrl+C.
 The script produces output similar to the following:
 
 [2024-10-05 14:34:47] Source: 140.82.X.X (chrome.exe:443, PID: 19700) -> Aim: 192.168.X.X (chrome.exe:56526, PID: None) | Dimension: 60 bytes | Protocol: TCP | TCP Flags: A | Window Size: 76
+
 [2024-10-05 14:35:16] Source: 8.8.8.8 (chrome.exe:443, PID: 19500) -> Aim: 192.168.X.X (chrome.exe:56308, PID: None) | Dimension: 67 bytes | Protocol: UDP | Window Size: 33
