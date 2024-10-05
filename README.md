@@ -5,7 +5,7 @@ Welcome to the Packet Sniffer project! This Python script leverages the Scapy li
 ## Features
 
 - **Real-Time Packet Capture**: Monitors both TCP and UDP traffic.
-- **Detailed Output**: Displays:
+- **Detailed Output Displays:**
   - Source and destination IP addresses
   - Source and destination ports
   - Application names associated with ports
