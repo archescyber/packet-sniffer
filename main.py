@@ -1,6 +1,8 @@
 from scapy.all import sniff, IP, TCP, UDP
 import psutil
 from datetime import datetime
+import os
+os.system('clear' if os.name == 'posix' else 'cls')
 
 known_ports = {
     0: "Reserved",
